@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 const galleryImages = [
   { id: 1, src: "https://images.unsplash.com/photo-1514933651103-005eec06c04b?q=80&w=800&auto=format&fit=crop", span: "md:col-span-2 md:row-span-2" },
   { id: 2, src: "https://images.unsplash.com/photo-1559339352-11d035aa65de?q=80&w=800&auto=format&fit=crop", span: "md:col-span-1 md:row-span-1" },
-  { id: 3, src: "https://images.unsplash.com/photo-1505826759037-1a69a40da1ca?q=80&w=800&auto=format&fit=crop", span: "md:col-span-1 md:row-span-1" },
+  { id: 3, src: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=800&auto=format&fit=crop", span: "md:col-span-1 md:row-span-1" },
   { id: 4, src: "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=800&auto=format&fit=crop", span: "md:col-span-1 md:row-span-2" },
   { id: 5, src: "https://images.unsplash.com/photo-1544148103-0773bf10d330?q=80&w=800&auto=format&fit=crop", span: "md:col-span-1 md:row-span-1" },
   { id: 6, src: "https://images.unsplash.com/photo-1600891964092-4316c288032e?q=80&w=800&auto=format&fit=crop", span: "md:col-span-2 md:row-span-1" }
